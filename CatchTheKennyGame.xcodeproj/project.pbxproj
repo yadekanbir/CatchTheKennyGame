@@ -16,6 +16,7 @@
 		D753A8342933FB2600318270 /* CatchTheKennyGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D753A8332933FB2600318270 /* CatchTheKennyGameTests.swift */; };
 		D753A83E2933FB2600318270 /* CatchTheKennyGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D753A83D2933FB2600318270 /* CatchTheKennyGameUITests.swift */; };
 		D753A8402933FB2600318270 /* CatchTheKennyGameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D753A83F2933FB2600318270 /* CatchTheKennyGameUITestsLaunchTests.swift */; };
+		D7A1A5FA2934DC970008578A /* StartScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A1A5F92934DC970008578A /* StartScreenVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D753A8392933FB2600318270 /* CatchTheKennyGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatchTheKennyGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D753A83D2933FB2600318270 /* CatchTheKennyGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchTheKennyGameUITests.swift; sourceTree = "<group>"; };
 		D753A83F2933FB2600318270 /* CatchTheKennyGameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchTheKennyGameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D7A1A5F92934DC970008578A /* StartScreenVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartScreenVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D753A81E2933FB2500318270 /* SceneDelegate.swift */,
 				D753A8202933FB2500318270 /* ViewController.swift */,
 				D753A8222933FB2500318270 /* Main.storyboard */,
+				D7A1A5F92934DC970008578A /* StartScreenVC.swift */,
 				D753A8252933FB2500318270 /* Assets.xcassets */,
 				D753A8272933FB2500318270 /* LaunchScreen.storyboard */,
 				D753A82A2933FB2500318270 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D753A8212933FB2500318270 /* ViewController.swift in Sources */,
+				D7A1A5FA2934DC970008578A /* StartScreenVC.swift in Sources */,
 				D753A81D2933FB2500318270 /* AppDelegate.swift in Sources */,
 				D753A81F2933FB2500318270 /* SceneDelegate.swift in Sources */,
 			);
